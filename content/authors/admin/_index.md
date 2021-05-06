@@ -1,36 +1,34 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Geoff Fudenberg
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: USC QCB
+  url: "https://dornsife.usc.edu/qcb/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests center around computational approaches to 3D genome organization.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 3D genome organization
+- Gene regulation
+- Machine learning
+- Biophysical modeling
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Biophysics
+    institution: Harvard University
+    year: 2015
+  - course: BA in Physics 
+    institution: Columbia
     year: 2008
 
 # Social/Academic Networking
@@ -38,18 +36,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
+
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:test@example.org'
+
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/gfudenberg
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=BSCdFH8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/gfudenberg
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +69,5 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Geoff Fudenberg is an Assistant Professor in the Department of [Quantitative and Computational Biology](https://dornsife.usc.edu/qcb/) at USC.  Geoff received a Ph.D. in Biophysics from Harvard University, working with [Leonid Mirny.](http://mirnylab.mit.edu) He conducted postdoctoral work at the Gladstone Institute of Data Science and Biotechnology with [Katie Pollard.](https://docpollard.org) His work aims to connect molecular-scale mechanisms with their genome-wide consequences, and uses machine-learning and biophysical modeling approaches to decode connections between 3D genome organization and function. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

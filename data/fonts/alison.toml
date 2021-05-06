@@ -1,0 +1,11 @@
+# Font style metadata
+name = "alison"
+
+# Optional Google font URL
+google_fonts = "Lora:900,100i|Karla:400,400i,700,700i|DM+Mono"
+
+# Font families
+heading_font = "Karla"
+body_font = "Lora"
+nav_font = "Lora"
+mono_font = "Lora"

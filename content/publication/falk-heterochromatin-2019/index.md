@@ -1,0 +1,13 @@
+---
+title: "Heterochromatin drives compartmentalization of inverted and conventional nuclei"
+date: 2019-06-01
+publishDate: 2021-04-27T17:01:57.486605Z
+authors: ["Martin Falk", "Yana Feodorova", "Natalia Naumova", "Maxim Imakaev", "Bryan R. Lajoie", "Heinrich Leonhardt", "Boris Joffe", "Job Dekker", "Geoffrey Fudenberg", "Irina Solovei", "Leonid A. Mirny"]
+publication_types: ["2"]
+abstract: "The nucleus of mammalian cells displays a distinct spatial segregation of active euchromatic and inactive heterochromatic regions of the genome1,2. In conventional nuclei, microscopy shows that euchromatin is localized in the nuclear interior and heterochromatin at the nuclear periphery1,2. Genome-wide chromosome conformation capture (Hi-C) analyses show this segregation as a plaid pattern of contact enrichment within euchromatin and heterochromatin compartments3, and depletion between them. Many mechanisms for the formation of compartments have been proposed, such as attraction of heterochromatin to the nuclear lamina2,4, preferential attraction of similar chromatin to each other1,4–12, higher levels of chromatin mobility in active chromatin13–15 and transcription-related clustering of euchromatin16,17. However, these hypotheses have remained inconclusive, owing to the difficulty of disentangling intra-chromatin and chromatin–lamina interactions in conventional nuclei18. The marked reorganization of interphase chromosomes in the inverted nuclei of rods in nocturnal mammals19,20 provides an opportunity to elucidate the mechanisms that underlie spatial compartmentalization. Here we combine Hi-C analysis of inverted rod nuclei with microscopy and polymer simulations. We find that attractions between heterochromatic regions are crucial for establishing both compartmentalization and the concentric shells of pericentromeric heterochromatin, facultative heterochromatin and euchromatin in the inverted nucleus. When interactions between heterochromatin and the lamina are added, the same model recreates the conventional nuclear organization. In addition, our models allow us to rule out mechanisms of compartmentalization that involve strong euchromatin interactions. Together, our experiments and modelling suggest that attractions between heterochromatic regions are essential for the phase separation of the active and inactive genome in inverted and conventional nuclei, whereas interactions of the chromatin with the lamina are necessary to build the conventional architecture from these segregated phases."
+featured: false
+publication: "*Nature*"
+url_pdf: "https://doi.org/10.1038/s41586-019-1275-3"
+doi: "10.1038/s41586-019-1275-3"
+---
+

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: 
 subtitle:
 
 content:
@@ -26,4 +26,5 @@ design:
   show_interests: false
   show_role: true
   show_social: true
+  show_bio: true
 ---
