@@ -246,11 +246,13 @@ hr {
 
 /* Quotes */
 blockquote {
+  background: #fafafa;
   padding: 0.5rem 1rem;
-  margin: 0.8rem 0;
-  color: #7a7a7a;
-  border-left: 0.25rem solid #e5e5e5;
+  margin: 0.8rem 0rem;
+  color: #2c2c2c !important;
+  border-left: 0.25rem solid #e6e6e6;
 }
+
 blockquote p:last-child {
   margin-bottom: 0;
 }

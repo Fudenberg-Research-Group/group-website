@@ -18,6 +18,7 @@ content:
   user_groups:
   - Researchers
 design:
+  columns: "1"
   show_interests: false
   show_role: true
   show_social: true

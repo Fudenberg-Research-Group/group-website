@@ -23,6 +23,7 @@ content:
   - Visitors
   - Alumni
 design:
+  columns: "1"
   show_interests: false
   show_role: true
   show_social: true
