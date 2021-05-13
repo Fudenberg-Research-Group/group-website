@@ -1,4 +1,7 @@
 ---
+widget: blank
+headless: true
+
 title: ""
 
 # View.
@@ -14,8 +17,8 @@ header:
   
 design:
   columns: "1"
-  
-  
+
+
 ---
 
 ## Software

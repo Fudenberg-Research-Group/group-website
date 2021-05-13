@@ -7,10 +7,10 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 20
 
-title: Contact
-subtitle:
+title: 
+subtitle: Contact
 
 content:
   # Automatically link email and phone or display as text?
@@ -28,7 +28,7 @@ content:
 design:
   columns: '1'
   spacing:
-    padding: [15px, 10px, 35px, 10px]
+    padding: [15px, 10px, 35px, 30px]
     
 ---
 

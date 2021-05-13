@@ -16,21 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests center around computational approaches to 3D genome organization.
 
-interests:
-- 3D genome organization
-- Gene regulation
-- Machine learning
-- Biophysical modeling
-
-education:
-  courses:
-  - course: PhD in Biophysics
-    institution: Harvard University
-    year: 2015
-  - course: BA in Physics 
-    institution: Columbia
-    year: 2008
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -69,5 +54,7 @@ user_groups:
 - Researchers
 ---
 
-Geoff Fudenberg is an Assistant Professor in the Department of [Quantitative and Computational Biology](https://dornsife.usc.edu/qcb/) at USC.  Geoff received a Ph.D. in Biophysics from Harvard University, working with [Leonid Mirny.](http://mirnylab.mit.edu) He conducted postdoctoral work at the Gladstone Institute of Data Science and Biotechnology with [Katie Pollard.](https://docpollard.org) His work aims to connect molecular-scale mechanisms with their genome-wide consequences, and uses machine-learning and biophysical modeling approaches to decode connections between 3D genome organization and function. 
+Geoff Fudenberg is an Assistant Professor in the Department of [Quantitative and Computational Biology](https://dornsife.usc.edu/qcb/) at USC.  Geoff received a Ph.D. in Biophysics from Harvard University, working with [Leonid Mirny.](http://mirnylab.mit.edu) He conducted postdoctoral work at the Gladstone Institute of Data Science and Biotechnology with [Katie Pollard.](https://docpollard.org) 
+
+His work aims to connect molecular-scale mechanisms with their genome-wide consequences, and uses machine-learning and biophysical modeling approaches to decode connections between 3D genome organization and function. 
 

@@ -1,11 +1,9 @@
 ---
-title: Publications
 view: 4
 
-header:
-  caption: ""
-  image: ""
 ---
+
+## Publications
 
 List of publications also available via [***Google Scholar***.](https://scholar.google.com/citations?user=BSCdFH8AAAAJ&hl=en)
 <br/><br/>

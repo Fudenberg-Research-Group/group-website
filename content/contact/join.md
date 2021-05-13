@@ -11,7 +11,7 @@ subtitle: ""
 design:
   columns: "1"
   spacing:
-    padding: [25px, 5px, 20px, 5px]
+    padding: [35px, 10px, 20px, 20px]
 
 ---
 

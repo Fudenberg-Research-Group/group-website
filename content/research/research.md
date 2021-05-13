@@ -1,12 +1,15 @@
 ---
+title: ""
+
+view: 2
+
 design:
   columns: "1"
-  spacing:
-    padding: [50px, 0px, 20px , 20px]
+  spacing: 
+    padding: ["35px","0px","0px","0px"]
 
 ---
-
-# Research
+## Research
 
 Inside our cells, genetic information is encoded on meter-long chromosomes with hundreds-of-millions of nucleotides organized inside micron-scale cell nuclei. 
 
@@ -31,7 +34,7 @@ To connect the impact of individual DNA nucelotides with 3D genome folding, we l
 
 ###### Loop extrusion as a mechanism of genome organization  
 
-<img src="/media/extrusion-cartoon-adapted-05-02-2021.png" alt="extrusion-fig" title="extrusion-fig" style="float: left;" width="425px" caption="asdfasd" />  
+<img src="/media/extrusion-cartoon-adapted-05-02-2021.png" alt="extrusion-fig" title="extrusion-fig" style="float: left;" width="425px" caption="extrusion" />  
 
 To understand how 3D folding patterns emerge in mammalian interphase Hi-C maps, we implemented and tested a range of possible mechanisms using polymer simluations. We found that the mechanism of loop extrusion limited by barriers could recapitulate many features of experimental data ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4889513/), [review article](https://pubmed.ncbi.nlm.nih.gov/29728444/)). This mechanism involves processive molecular machines that dynamically enlarge chromatin loops as they translocate hundreds of thousands of nucleotides along the chromatin fiber. Extruder translocation continues unless extruders become stalled at a barrier, or against another extruder, until they dissociate from the chromatin fiber. Spurred by these results, we collaborated with experimentalists to better understand the molecular basis for how barriers halt extrusion in interphase ([paper](https://www.nature.com/articles/s41467-020-19283-x)), as well as how extrusion might operate to organize chromosomes in meiosis ([paper](https://www.nature.com/articles/s41467-019-12629-0)). We are excited about developing new models to understand: (i) how loop extrusion can enable communication between enhancers and promoters, (ii) when and how regulators modulate loop extrusion dynamics, (iii) rules governing the encounters between extruders and barriers, (iv) the interplay between loop extrusion and other mechanisms of genome organization (e.g. heterochromatin phase separation in interphase, or synaptonemal complex assembly in meiosis).
 
