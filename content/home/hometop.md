@@ -19,10 +19,7 @@ design:
 
 <picture>
    <source 
-      media="(min-width: 350px)"
-      srcset="/media/chromart-v3.jpg">
-   <source 
-      media="(min-width: 105px)"
+      media="(min-width: 650px)"
       srcset="/media/chromart-v2.jpg">
    <img src="/media/chromart-v3.jpg" 
    alt="chromosome-art" style="padding-bottom: 20px;">
