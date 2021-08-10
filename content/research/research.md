@@ -9,20 +9,27 @@ design:
     padding: ["35px","0px","0px","0px"]
 
 ---
-## Research
-
-Inside our cells, genetic information is encoded on meter-long chromosomes with hundreds-of-millions of nucleotides organized inside micron-scale cell nuclei. 
-
-Our goal is to identify and answer the fundamental questions in genome biology posed by this immense range of scales. These include:
+## Research  
+  
+Inside of our cells, genetic information is encoded on meter-long chromosomes with hundreds-of-millions of nucleotides organized inside micron-scale cell nuclei.  
+&nbsp;  
+Our group uses computational approaches to identify and answer fundamental questions in genome biology posed by this immense range of scales. These include:
 - _How do molecular interactions between proteins organize micron-long chromosomes?_  
 - _Which DNA sequences specify when & how this organization occurs?_  
 - _How does genome oranization influence communication between DNA regulatory elements?_  
 
-We believe the answers to these questions are key links for connecting molecular processes and macroscopic phenotypes.
+We believe the answers to these questions are key links for connecting molecular processes and cellular phenotypes.  
+&nbsp;  
+Our group currently develops:  
+- ***polymer simulations*** of genome folding mechanisms  
+- ***neural network models*** of DNA sequences determining genome folding  
+- ***computational tools*** for large-scale genomic data analysis and visualization  
 
-As a computational group, our approach involves building quantitative models that can bridge the gap between (i) individual nucleotides and full genomes, (ii) molecular-scale mechanisms and genome-wide consequences, and (iii) develop tools to synthesize and analyze rapdily growing quantities and modalities of genomic data. A key aspect of our approach involves close collaborations with experimental and computational colleagues. 
-  
-Two projects that illustrate our approach are higlighted below, with links to key papers, review articles, and code. The first project asks which DNA sequences specify genome organization and makes use of convolutional neural networks. The second aims to understand mechanisms of 3D genome organization, and makes use of polymer simulations.
+We often develop our approaches using publicly-available datasets and test their predictions experimentally in collaboration. Projects in the group span from model building to tool development to data analyis.  
+  &nbsp;  
+
+Two projects are higlighted below, with links to key papers, review articles, and code. The first project asks which DNA sequences specify genome organization and makes use of convolutional neural networks. The second aims to understand mechanisms of 3D genome organization, and makes use of polymer simulations.  
+&nbsp;  
 
 ###### DNA sequence determinants of 3D genome folding  
 

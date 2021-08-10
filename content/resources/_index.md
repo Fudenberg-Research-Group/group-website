@@ -25,14 +25,13 @@ design:
 
 We actively develop computational tools with the [Open Chromosome Collective (Open2C).](https://github.com/open2c) 
 
-Tools under active development include:
+Open2C repositories under active development include:
 - [`bioframe`:](https://github.com/open2c/bioframe) flexible workflows with genomic interval dataframes.
 - [`cooltools`:](https://github.com/open2c/cooltools) analysis of chromosome conformation data stored in the cooler format.
-- [`example notebooks`:](https://github.com/open2c/open2c_examples) walkthroughs for common chromosome conformation analyses.
 - [`polychrom`:](https://github.com/open2c/polychrom) for biophysical models of chromosome folding.
 
-We actively develop machine-learning models of genome folding with:
-- [`akita`:](https://github.com/calico/basenji/tree/master/manuscripts/akita) for predicting interphase mammalian genome folding from DNA sequence
+For neural network models of genome folding see:
+- [`akita`:](https://github.com/calico/basenji/tree/master/manuscripts/akita) for predicting mammalian interphase genome folding from DNA sequence
 
 ## Talks and Slides
 
