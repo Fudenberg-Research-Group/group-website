@@ -16,7 +16,7 @@ design:
 ---
 
 ## Join  
-We are always looking for students and postdocs to collaborate with on our journey towards understanding genome organization and function. We have had fruitful collaborations with researchers with backgrounds ranging from theoretical physics, to computer science, to chromatin biology. Check out some of the papers and review articles linked from our [research](../research) section, as well as [code](../resources), for more information about projects we've been thinking about recently.  
+We actively looking for students and postdocs to join us on our journey to understand genome organization and function. We have had fruitful collaborations with researchers with backgrounds ranging from theoretical physics, to computer science, to chromatin biology, and welcome researchers excited by inter-disciplinary science. Check out some of the papers and review articles linked from our [research](../research) section, as well as [code](../resources), for more information about projects we've been thinking about recently.  
 &nbsp;  
 Prospective PhD students should apply to USC’s [Computational Biology and Bioinformatics (CBB)](https://www.qcb-dornsife.usc.edu/phd) program and arrange a rotation. Note that admissions are handled by the committee and not by individual groups, but feel welcome to send questions or statements of interest via email.  
 &nbsp;  
