@@ -1,0 +1,5 @@
+# see https://docs.netlify.com/routing/redirects/
+# Useful links: always single-word & lowercase
+
+/usc-profile     https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1097586
+
