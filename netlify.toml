@@ -14,3 +14,8 @@
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+
+[[redirects]]
+  from = "/usc-profile"
+  to = "https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1097586"
