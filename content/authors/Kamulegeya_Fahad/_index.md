@@ -54,6 +54,10 @@ user_groups:
 - Researchers
 ---
 
-Fahad is a Graduate Student in Fudenberg's group with a Bachelors in Physics from Makerere University, Uganda.
-He is Interested in chromatin dynamics and 3D genome organization. 
+Fahad is a Graduate Student in Fudenberg's group. 
+He got a Bachelors in Physics from [Makerere University](https://www.mak.ac.ug), Uganda.
+He then obtained a Post Graduate Diploma in Quantitative Life Sciences at the [International Center for Theoretical Physics](https://www.ictp.it), Italy.
+He was a research technichian at the Institute of Molecular Biotechnology in Austria, modelling chromatin dynamics in the [Goloborodko Lab](https://www.oeaw.ac.at/imba/research/anton-goloborodko). 
+
+He is exploring how to exploit computational tools to decipher the link between chromatin dynamics, 3D genome organization and gene expression. 
 
