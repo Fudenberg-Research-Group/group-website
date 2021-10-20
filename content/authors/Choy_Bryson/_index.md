@@ -14,7 +14,7 @@ organizations:
   url: "https://dornsife.usc.edu/qcb/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in chromatin dynamics and 3D genome organization.
+bio: Interested in gene regulation, nuclear compartmentalization, and 3D genome organization.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
