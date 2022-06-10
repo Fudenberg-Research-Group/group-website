@@ -14,7 +14,7 @@ organizations:
   url: "https://dornsife.usc.edu/qcb/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in 3D genome organization.
+bio: Interested in 3D genome organization and discovery algorithms. 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,6 +55,6 @@ user_groups:
 ---
 
 Vamsi is a concurrent BS/MS student in the [Department of Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu) at USC. 
-He has worked with [Pinchas Cohen] in the area of computational biology and gerontology toward understanding the role of mitochondrial-derived proteins in aging. 
+He has worked with [Pinchas Cohen](https://gero.usc.edu/labs/cohenlab/) in the area of computational biology and gerontology toward understanding the role of mitochondrial-derived peptides in aging. 
 
 His work in the Fudenberg lab focuses on the exploring the interplay between CTCF and TF binding motifs in the context of 3D genome organization. 
