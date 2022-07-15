@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bozhena Pokorny
+title: Paulina Smaruj
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,10 +10,10 @@ role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: USC Viterbi
+- name: USC QCB
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in chromatin dynamics and 3D genome organization.
+bio: Interested in employing interpretable deep learning models for revealing principles of nuclear organization of mammalian genomes.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -23,11 +23,11 @@ social:
 
 #- icon: envelope
 #  icon_pack: fas
-#  link: 'pokorny@usc.edu'
+#  link: 'smaruj@usc.edu'
 
 - icon: github
   icon_pack: fab
-  link: https://github.com/Bozhie
+  link: [https://github.com/PSmaruj]
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -36,7 +36,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "pokorny@usc.edu"
+email: "smaruj@usc.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -47,4 +47,5 @@ user_groups:
 - Researchers
 ---
 
-Bozhie is a Graduate Student pursuing an M.S. in Computer Science at USC. She received a B.S. in Bioengineering from UC Berkeley in 2019, and worked as an undergraduate researcher under Dr. Chris Anderson. For the following two years, she worked for a start up in the Synthetic Biology space, where her work focused on improving aspects of the molecular biology workflow as well as building computational tools. She is interested in applications of computational tools and predictive modeling in biological research.
+Paulina is a Graduate Student pursuing a Ph.D. in Computational Biology and Bioinformatics in the Department of Quantitative and Computational Biology. She received a B.S. in Biotechnology from the College of Inter-faculty Individual Studies in Mathematics and Natural Science at the University of Warsaw, Poland. During her undergraduate, Paulina worked on the biochemical and bioinformatic characterization of Hh1412 from Helicobacter hepaticus presumably functioning as thiol:disulfide interchange protein under supervision of Paula Roszczenko-Jasinska, Ph.D. As an undergraduate researcher, she worked in the Interdisciplinary Laboratory of Biological Systems Modelling under Prof. Joanna I. Sulkowska supervision, where she investigated the evolutionary origins of the slipknot topology in proteins. 
+Paulina is interested in the molecular aspeckts of genome organization, its dynamics, and role in gene regulation. She focuses on employing interpretable deep learning models for revealing principles of nuclear organization of mammalian genomes. 
