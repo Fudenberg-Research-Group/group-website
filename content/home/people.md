@@ -1,7 +1,7 @@
 ---
 # An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
+widget: people_mainpage
 
 # This file represents a page section.
 headless: true
@@ -17,6 +17,7 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Researchers
+  - Alumni
 design:
   columns: "1"
   show_interests: false
