@@ -6,7 +6,7 @@ title: Fahad Kamulegeya
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Computational research technician
 
 # Organizations/Affiliations
 organizations:
@@ -54,10 +54,10 @@ user_groups:
 - Researchers
 ---
 
-Fahad is a Graduate Student in the Department of [Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu/). 
+Fahad is a research technician in the Department of [Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu/). 
 He got a Bachelors in Physics from [Makerere University](https://www.mak.ac.ug), Uganda.
 He then obtained a Post Graduate Diploma in Quantitative Life Sciences at the [International Center for Theoretical Physics](https://www.ictp.it), Italy.
 He was a research technichian at the [Institute of Molecular Biotechnology](https://www.oeaw.ac.at/imba/home) in Austria, modelling chromatin dynamics in the [Goloborodko Lab](https://www.oeaw.ac.at/imba/research/anton-goloborodko). 
 
-He is exploring how to exploit computational tools to decipher the link between chromatin dynamics, 3D genome organization and gene expression. 
+He uses computational tools to decipher the link between chromatin dynamics, 3D genome organization and gene expression. 
 
