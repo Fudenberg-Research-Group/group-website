@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rahmani
+title: Hadi Rahmaninejad
 
 # Is this the primary user of the site?
 superuser: false
@@ -26,9 +26,9 @@ social:
 #  icon_pack: fas
 #  link: 'mailto:test@example.org'
 
-- icon: twitter
-  icon_pack: fab
-  link: 
+#- icon: twitter
+#  icon_pack: fab
+#  link: 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=UUYEU4UAAAAJ&hl=en&oi=ao
