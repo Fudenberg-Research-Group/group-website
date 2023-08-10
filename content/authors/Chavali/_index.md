@@ -7,6 +7,7 @@ superuser: false
 
 # Role/position
 role: Undergraduate/Master's Student
+external_link: https://fudenberg.team/author/vamsi-chavali/
 
 # Organizations/Affiliations
 organizations:
