@@ -51,10 +51,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
-Vamsi is a concurrent BS/MS student in the [Department of Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu) at USC. 
-He has worked with [Pinchas Cohen](https://gero.usc.edu/labs/cohenlab/) in the area of computational biology and gerontology toward understanding the role of mitochondrial-derived peptides in aging. 
+At USC, Vamsi was a concurrent BS/MS student in the [Department of Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu). 
+He worked with [Pinchas Cohen](https://gero.usc.edu/labs/cohenlab/) in the area of computational biology and gerontology toward understanding the role of mitochondrial-derived peptides in aging. His work in the Fudenberg lab focused on understanding patterns of CTCF binding across cell types and how they may relate to 3D genome organization. 
 
-His work in the Fudenberg lab focuses on the exploring the interplay between CTCF and TF binding motifs in the context of 3D genome organization. 
+After graduation, Vamsi started as an analyst at [McKinsey & Company](https://www.linkedin.com/in/vbchavali).
