@@ -31,9 +31,9 @@ social:
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-   icon_pack: ai
-   link: https://yaoyx.github.io/yaoyx.github.io/
+#- icon: cv
+#   icon_pack: ai
+#   link: https://yaoyx.github.io/yaoyx.github.io/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yxiao977@usc.edu"
