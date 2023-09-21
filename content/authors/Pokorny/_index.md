@@ -6,7 +6,7 @@ title: Bozhena Pokorny
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Master's Student
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +44,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
-Bozhie is a Graduate Student pursuing an M.S. in Computer Science at USC. She received a B.S. in Bioengineering from UC Berkeley in 2019, and worked as an undergraduate researcher under Dr. Chris Anderson. For the following two years, she worked for a start up in the Synthetic Biology space, where her work focused on improving aspects of the molecular biology workflow as well as building computational tools. She is interested in applications of computational tools and predictive modeling in biological research.
+Bozhie recieved her M.S. in Computer Science at USC. She received a B.S. in Bioengineering from UC Berkeley in 2019, and worked as an undergraduate researcher under Dr. Chris Anderson. For the following two years, she worked for a start up in the Synthetic Biology space, where her work focused on improving aspects of the molecular biology workflow as well as building computational tools. In the Fudenberg group she investigated the role of 3D genome folding on transcription.
+
+She is interested in applications of computational tools and predictive modeling in biological research.
