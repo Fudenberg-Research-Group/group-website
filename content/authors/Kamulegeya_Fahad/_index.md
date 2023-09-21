@@ -10,9 +10,8 @@ role: Computational research technician
 
 # Organizations/Affiliations
 organizations:
-- name: USC QCB
-  url: "https://dornsife.usc.edu/qcb/"
-
+- name: Stowers Institute
+  
 # Short bio (displayed in user profile at end of posts)
 bio: Interested in chromatin dynamics and 3D genome organization.
 
@@ -51,13 +50,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
+Fahad is now pursuing a [PhD at Stowers Institute](https://www.linkedin.com/in/kamulegeya-fahad). 
 
-Fahad is a research technician in the Department of [Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu/). 
-He got a Bachelors in Physics from [Makerere University](https://www.mak.ac.ug), Uganda.
-He then obtained a Post Graduate Diploma in Quantitative Life Sciences at the [International Center for Theoretical Physics](https://www.ictp.it), Italy.
-He was a research technichian at the [Institute of Molecular Biotechnology](https://www.oeaw.ac.at/imba/home) in Austria, modelling chromatin dynamics in the [Goloborodko Lab](https://www.oeaw.ac.at/imba/research/anton-goloborodko). 
-
-He uses computational tools to decipher the link between chromatin dynamics, 3D genome organization and gene expression. 
+At USC, Fahad was a computational research technician in the Fudenberg group, using computational tools to decipher the link between chromatin dynamics, 3D genome organization and gene expression. He got a Bachelors in Physics from [Makerere University](https://www.mak.ac.ug), Uganda. He then obtained a Post Graduate Diploma in Quantitative Life Sciences at the [International Center for Theoretical Physics](https://www.ictp.it), Italy. He was previously a research technichian at the [Institute of Molecular Biotechnology](https://www.oeaw.ac.at/imba/home) in Austria, modelling chromatin dynamics in the [Goloborodko Lab](https://www.oeaw.ac.at/imba/research/anton-goloborodko).  
 
