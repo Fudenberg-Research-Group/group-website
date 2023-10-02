@@ -15,7 +15,7 @@ organizations:
   url: "https://dornsife.usc.edu/qcb/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in machine learning applications to better understand 3D genome organization and accelerate drug discovery
+bio: Interested in applying machine learning techniques to better understand genomes and accelerate drug discovery
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,4 +49,4 @@ user_groups:
 - Researchers
 ---
 
-Ria Pai is a Senior at USC pursuing a B.S. in [Quantitative Biology] (https://www.qcb-dornsife.usc.edu) and a minor in [Disruptive Innovation] (https://iovine-young.usc.edu/learn/undergraduate/learn-minors). She has previously worked with [Dr. Suhn K. Rhie] (https://sites.usc.edu/rhielab/) integrating RNA-seq data to understand gene regulation, how it translates to transcriptome changes, and aided in the creation of a larger R package that can be used to detect epigenetic changes in any dataset. Currently, in the Fudenberg lab she is focused on assessing the viability of genetic files to be used in the development of Akita through visualizing Hi-C maps and analyzing them. 
+Ria Pai is a Senior at USC pursuing a B.S. in [Quantitative Biology] (https://www.qcb-dornsife.usc.edu) and a minor in [Disruptive Innovation] (https://iovine-young.usc.edu/learn/undergraduate/learn-minors). She has previously worked with [Dr. Suhn K. Rhie] (https://sites.usc.edu/rhielab/) integrating RNA-seq data to understand gene regulation, how it translates to transcriptome changes, and aided in the creation of a larger R package that can be used to detect epigenetic changes in any dataset. Currently, in the Fudenberg lab, she is focused on assessing the viability of genetic files and making human vs. mouse predictions for the development of Akita. 
