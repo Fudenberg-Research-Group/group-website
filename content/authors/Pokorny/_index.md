@@ -7,6 +7,7 @@ superuser: false
 
 # Role/position
 role: Master's Student
+external_link: https://bozhie.github.io/
 
 # Organizations/Affiliations
 organizations:
@@ -47,6 +48,9 @@ user_groups:
 - Alumni
 ---
 
-Bozhie recieved her M.S. in Computer Science at USC. She received a B.S. in Bioengineering from UC Berkeley in 2019, and worked as an undergraduate researcher under Dr. Chris Anderson. For the following two years, she worked for a start up in the Synthetic Biology space, where her work focused on improving aspects of the molecular biology workflow as well as building computational tools. In the Fudenberg group she investigated the role of 3D genome folding on transcription.
+Bozhie is expected to receive her M.S. in Computer Science at USC in December 2023.
+She received a B.S. in Bioengineering from UC Berkeley in 2019, and worked as an undergraduate researcher under Dr. Chris Anderson. She then spent three years working various aspects of R&D at Tierra Biosciences, a Synthetic Biology start-up.
 
-She is interested in applications of computational tools and predictive modeling in biological research.
+In the Fudenberg group she investigated the role of 3D genome folding on transcription.
+
+She is interested in applications of computer science, data science, and machine learning in biological research and technology.
