@@ -54,7 +54,7 @@
     {{ end }}
 
     <div class="portrait-title">
-      <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
+      <h2 style="margin-bottom: 5px;">{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
       {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
       {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
       {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
@@ -65,7 +65,7 @@
   <div class="col-12 col-sm-auto people-person" style='padding-right:5px;padding-left:5px;'>
     <div class="portrait-title">
       {{ $link := .Params.external_link }}
-      <h2 style="margin-bottom: 0ex; margin-top: 1pt;">{{with $link}}<a href="{{.}}">{{end}}{{ .Params.title }}{{if $link}}</a>{{end}}</h2>
+      <h2 style="margin-bottom: 3px; margin-top: 3pt;">{{with $link}}<a href="{{.}}">{{end}}{{ .Params.title }}{{if $link}}</a>{{end}}</h2>
     </div>
   </div>
   {{-  end -}}
