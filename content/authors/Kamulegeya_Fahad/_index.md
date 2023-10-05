@@ -7,6 +7,7 @@ superuser: false
 
 # Role/position
 role: Computational research technician
+external_link: https://fudenberg.team/author/fahad-kamulegeya/
 
 # Organizations/Affiliations
 organizations:
