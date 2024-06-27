@@ -47,4 +47,4 @@ user_groups:
 - Researchers
 ---
 
-Xingchi earned his ScM in applied mathematics and PhD from Brown University. His research focuses on the mathematical, computational, and algorithmic aspects of biochemical and biophysical measurements. He is also interested in stochastic processes, disordered systems and their applications in biology. 
+Xingchi earned his ScM in applied mathematics and PhD from Brown University. His research interest focuses on the mathematical, computational, and algorithmic aspects of biochemical and biophysical measurements. He is also interested in stochastic processes, disordered systems and their applications in biology. 
