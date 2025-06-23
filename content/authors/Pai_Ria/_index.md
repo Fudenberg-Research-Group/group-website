@@ -7,7 +7,7 @@ superuser: false
 
 # Role/position
 role: Undergraduate Student
-external_link: www.linkedin.com/in/ria-pai
+external_link: https://www.linkedin.com/in/ria-pai
 
 # Organizations/Affiliations
 organizations:
