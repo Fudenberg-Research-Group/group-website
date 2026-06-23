@@ -1,3 +1,13 @@
+---
+# Display name
+title: Rownok Ratul
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Graduate Student
+
 # Organizations/Affiliations
 organizations:
 - name: USC QCB
@@ -19,7 +29,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/RownokRatul
-  
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
