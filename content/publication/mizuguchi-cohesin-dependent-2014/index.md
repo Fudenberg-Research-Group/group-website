@@ -1,5 +1,5 @@
 ---
-title: "Cohesin-dependent globules and heterochromatin shape 3D genome architecture in textitS. pombe"
+title: "Cohesin-dependent globules and heterochromatin shape 3D genome architecture in S. pombe"
 date: 2014-12-01
 publishDate: 2021-04-27T17:01:57.492179Z
 authors: ["Takeshi Mizuguchi", "Geoffrey Fudenberg", "Sameet Mehta", "Jon-Matthew Belton", "Nitika Taneja", "Hernan Diego Folco", "Peter FitzGerald", "Job Dekker", "Leonid Mirny", "Jemima Barrowman", "Shiv I. S. Grewal"]

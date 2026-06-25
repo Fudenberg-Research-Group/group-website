@@ -1,0 +1,12 @@
+---
+title: "Interpreting the CTCF-mediated sequence grammar of genome folding with AkitaV2"
+date: 2025-02-04
+publishDate: 2026-06-25T00:00:00Z
+authors: ["Paulina N Smaruj", "Fahad Kamulegeya", "David R Kelley", "Geoffrey Fudenberg"]
+publication_types: ["2"]
+abstract: "Interphase mammalian genomes are folded in 3D with complex locus-specific patterns that impact gene regulation. CTCF (CCCTC-binding factor) is a key architectural protein that binds specific DNA sites, halts cohesin-mediated loop extrusion, and enables long-range chromatin interactions. There are hundreds of thousands of annotated CTCF-binding sites in mammalian genomes; disruptions of some result in distinct phenotypes, while others have no visible effect. Despite their importance, the determinants of which CTCF sites are necessary for genome folding and gene regulation remain unclear. Here, we update and utilize Akita, a convolutional neural network model, to extract the sequence preferences and grammar of CTCF contributing to genome folding. Our analyses of individual CTCF sites reveal four predictions: (i) only a small fraction of genomic sites are impactful; (ii) impact is highly dependent on sequences flanking the core CTCF binding motif; (iii) core and flanking nucleotides contribute largely additively to the overall impact of a site; (iv) sites created as combinations of different core and flanking sequences have impacts proportional to the product of their average impacts, i.e. they are broadly compatible. Our analysis of collections of CTCF sites make two predictions for multi-motif grammar: (i) insulation strength depends on the number of CTCF sites within a cluster, and (ii) pattern formation is governed by the orientation and spacing of these sites, rather than any inherent specialization of the CTCF motifs themselves. In sum, we present a framework for using neural network models to probe the sequences instructing genome …"
+featured: false
+publication: "*PLOS Computational Biology*"
+url_pdf: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012824"
+doi: "10.1371/journal.pcbi.1012824"
+---
