@@ -4,9 +4,11 @@
 
 {{ $profile_page := . }}
 {{ if not .File }}
-  {{ $author_matches := where (where site.Pages "Section" "authors") ".Params.title" .Title }}
-  {{ with $author_matches }}
-    {{ $profile_page = index . 0 }}
+  {{ $term_page := . }}
+  {{ range where site.Pages "Section" "authors" }}
+    {{ if and .File (eq .RelPermalink $term_page.RelPermalink) }}
+      {{ $profile_page = . }}
+    {{ end }}
   {{ end }}
 {{ end }}
 
