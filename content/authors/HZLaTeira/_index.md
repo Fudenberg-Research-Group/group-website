@@ -7,6 +7,7 @@ superuser: false
 
 # Role/position
 role: Visiting Researcher
+external_link: https://fudenberg.team/author/lateira-haynes-zavala/
 
 # Organizations/Affiliations
 organizations:

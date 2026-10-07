@@ -7,6 +7,7 @@ superuser: false
 
 # Role/position
 role: Graduate Student
+external_link: https://fudenberg.team/author/paulina-smaruj/
 
 # Organizations/Affiliations
 organizations:
