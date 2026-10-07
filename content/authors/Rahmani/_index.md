@@ -52,8 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
-Hadi Rahmaninejad is a Postdoctoral Scholar in the Department of [Quantitative and Computational Biology](https://dornsife.usc.edu/qcb/) at USC. Hadi received a Ph.D. in Physics from Virginia Tech, focusing on biological physics and soft materials. He started his graduate study working with [Peter Kekenes-Huskey]( https://huskeypm.github.io/pkhlab.github.io/index.html) on modeling signal transduction as reaction-diffusion processes and then continued his work with [Rana Ashkar](https://ashkar.phys.vt.edu/index.html) working on theoretical modeling of biological and polymeric nanostructured materials. 
-
+Hadi Rahmaninejad was a Postdoctoral Scholar in the Department of [Quantitative and Computational Biology](https://dornsife.usc.edu/qcb/) at USC. Hadi received a Ph.D. in Physics from Virginia Tech, focusing on biological physics and soft materials. He started his graduate study working with [Peter Kekenes-Huskey]( https://huskeypm.github.io/pkhlab.github.io/index.html) on modeling signal transduction as reaction-diffusion processes and then continued his work with [Rana Ashkar](https://ashkar.phys.vt.edu/index.html) working on theoretical modeling of biological and polymeric nanostructured materials.

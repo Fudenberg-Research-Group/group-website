@@ -45,8 +45,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
-LaTeira Haynes Zavala is currently a visiting researcher in the Fudenberg lab this summer. Currently, she teaches high school biology and biotechnology courses. Before teaching, she earned her B.S. in Biology from Spelman College and her doctorate in Biomedical Sciences from UC San Diego, where her research focused on the development and maturation of immune cells. After graduate school, she decided to teach high school to find more first-generation college students like herself and encourage them to pursue careers in research science. She will take what she learns this summer to create engaging lessons that expose her students to the field of computational biology.  
-
+LaTeira Haynes Zavala was a visiting researcher in the Fudenberg lab during summer 2026. She teaches high school biology and biotechnology courses. Before teaching, she earned her B.S. in Biology from Spelman College and her doctorate in Biomedical Sciences from UC San Diego, where her research focused on the development and maturation of immune cells. After graduate school, she decided to teach high school to find more first-generation college students like herself and encourage them to pursue careers in research science. She is using what she learned that summer to create engaging lessons that expose her students to the field of computational biology.
