@@ -48,12 +48,13 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
+# Show latest publications/posts on the author profile page? (true/false)
+show_latest: false
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 ---
 
-Geoff Fudenberg is an Assistant Professor in the Department of [Quantitative and Computational Biology](https://dornsife.usc.edu/qcb/) at USC.  Geoff received a Ph.D. in Biophysics from Harvard University, working with [Leonid Mirny](http://mirnylab.mit.edu) at MIT. He conducted postdoctoral work at the Gladstone Institute of Data Science and Biotechnology with [Katie Pollard.](https://docpollard.org) 
-
-His work aims to connect molecular-scale mechanisms with their genome-wide consequences, and uses machine-learning and biophysical modeling approaches to decode connections between 3D genome organization and function. 
+Geoff Fudenberg is an Assistant Professor in the Department of [Quantitative and Computational Biology](https://dornsife.usc.edu/qcb/) at USC. His work aims to connect molecular-scale mechanisms with their genome-wide consequences, and uses machine-learning and biophysical modeling approaches to decode connections between 3D genome organization and function.
