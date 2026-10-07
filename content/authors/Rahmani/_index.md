@@ -7,6 +7,7 @@ superuser: false
 
 # Role/position
 role: Postdoctoral Scholar
+external_link: https://fudenberg.team/author/hadi-rahmaninejad/
 
 # Organizations/Affiliations
 organizations:

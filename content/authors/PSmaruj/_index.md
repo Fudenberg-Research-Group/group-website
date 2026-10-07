@@ -7,6 +7,7 @@ superuser: false
 
 # Role/position
 role: Graduate Student
+external_link: https://fudenberg.team/author/paulina-smaruj/
 
 # Organizations/Affiliations
 organizations:
@@ -52,4 +53,4 @@ user_groups:
 - Alumni
 ---
 
-Paulina received her Ph.D. in Computational Biology and Bioinformatics as well as the Michael S. Waterman Award for research excellence in Quantitative and Computational Biology in 2026. She received a B.S. in Biotechnology from the College of Inter-faculty Individual Studies in Mathematics and Natural Science at the University of Warsaw, Poland. During her undergraduate, Paulina worked on the biochemical and bioinformatic characterization of Hh1412 from Helicobacter hepaticus presumably functioning as thiol:disulfide interchange protein under the supervision of Paula Roszczenko-Jasinska, Ph.D. As an undergraduate researcher, she worked in the Interdisciplinary Laboratory of Biological Systems Modeling under Prof. Joanna I. Sulkowska supervision, where she investigated the evolutionary origins of the slipknot topology in proteins. 
+In 2026, Paulina received her Ph.D. in Computational Biology and Bioinformatics as well as the Michael S. Waterman Award for research excellence. She received a B.S. in Biotechnology from the College of Inter-faculty Individual Studies in Mathematics and Natural Science at the University of Warsaw, Poland. During her undergraduate, Paulina worked on the biochemical and bioinformatic characterization of Hh1412 from Helicobacter hepaticus presumably functioning as thiol:disulfide interchange protein under the supervision of Paula Roszczenko-Jasinska, Ph.D. As an undergraduate researcher, she worked in the Interdisciplinary Laboratory of Biological Systems Modeling under Prof. Joanna I. Sulkowska supervision, where she investigated the evolutionary origins of the slipknot topology in proteins.
