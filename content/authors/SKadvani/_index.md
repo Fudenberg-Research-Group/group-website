@@ -7,6 +7,7 @@ superuser: false
 
 # Role/position
 role: Master's Student
+external_link: https://fudenberg.team/author/SKadvani
 
 # Organizations/Affiliations
 organizations:
