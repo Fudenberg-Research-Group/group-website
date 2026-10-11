@@ -7,7 +7,7 @@ superuser: false
 
 # Role/position
 role: Master's Student
-external_link: https://fudenberg.team/author/SKadvani
+external_link: https://fudenberg.team/author/smit-kadvani
 
 # Organizations/Affiliations
 organizations:
