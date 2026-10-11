@@ -14,7 +14,7 @@ organizations:
 - name: USC Viterbi
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in chromatin dynamics and 3D genome organization.
+bio: Research interests included chromatin dynamics and 3D genome organization.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -29,6 +29,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Bozhie
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/bozhie
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -48,9 +51,9 @@ user_groups:
 - Alumni
 ---
 
-Bozhie is expected to receive her M.S. in Computer Science at USC in December 2023.
+Bozhie received her M.S. in Computer Science at USC in December 2023.
 She received a B.S. in Bioengineering from UC Berkeley in 2019, and worked as an undergraduate researcher under Dr. Chris Anderson. She then spent three years working various aspects of R&D at Tierra Biosciences, a Synthetic Biology start-up.
 
-In the Fudenberg group she investigated the role of 3D genome folding on transcription.
+During her time in the Fudenberg group, she investigated the role of 3D genome folding on transcription.
 
-She is interested in applications of computer science, data science, and machine learning in biological research and technology.
+Her research interests included applications of computer science, data science, and machine learning in biological research and technology.
